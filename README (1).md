@@ -1,7 +1,7 @@
 
 # Debasis Sankhua - AI Product/Data Analyst Portfolio
 
-Welcome to my GitHub portfolio! I am transitioning from a Sales Operations Specialist role into a technical career as a Product Analyst / Data Analyst. This portfolio showcases my learning journey and hands-on projects that demonstrate my skills in data analysis, product thinking, and AI integration.
+Welcome to my GitHub portfolio! I am transitioning from a Business Operations Analyst role into a technical career as a Product Analyst / Data Analyst. This portfolio showcases my learning journey and hands-on projects that demonstrate my skills in data analysis, product thinking, and AI integration.
 
 ## 🎯 Career Goal
 To become a skilled Product/Data Analyst with expertise in data-driven decision-making, product metrics, and AI-powered tools.
